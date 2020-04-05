@@ -67,7 +67,7 @@ gem 'jquery-rails'
 #20200211追加
 
 #20200216追加
-gem 'devise' , '~>4.6.1'
+gem 'devise' , '~>4.7.1'
 
 #20200310追加
 gem 'carrierwave' , '~> 1.0'
